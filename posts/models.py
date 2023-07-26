@@ -5,6 +5,7 @@ from django.db import models
 
 # Create your models here.
 # this is a my first step in creating of git repositories
+# yes this is the first pull request
 
 User = get_user_model()
 
