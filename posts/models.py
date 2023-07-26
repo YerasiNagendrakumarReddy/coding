@@ -4,7 +4,7 @@ from django.contrib.auth import get_user_model
 from django.db import models
 
 # Create your models here.
-
+# this is a my first step in creating of git repositories
 
 User = get_user_model()
 
